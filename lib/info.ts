@@ -1,7 +1,7 @@
 export const INFO = {
   endereco: "Av. Exemplo, 123 – Centro, Itabuna – BA",
   mapaBusca: "Itabuna, Bahia", // o que o Google Maps vai procurar (use o endereço real depois)
-  telefone: "(73) 984462687",
+  telefone: "(47) 984462687",
   instagram: "@fornonove",
   // índice 0 = domingo ... 6 = sábado. null = fechado
   horarios: [
